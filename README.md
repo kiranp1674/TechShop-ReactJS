@@ -4,7 +4,7 @@ A modern and responsive e-commerce web application built using React.js. TechSho
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [Add Your Vercel Deployment URL Here]
+🔗 **Live Website:** https://tech-shop-react-js.vercel.app/
 
 🔗 **GitHub Repository:** https://github.com/kiranp1674/TechShop-ReactJS
 
